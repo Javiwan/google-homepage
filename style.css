@@ -1,0 +1,64 @@
+#search{
+	width:600px;
+	position: absolute;
+	top:330px;
+	left: 340px;
+	font-size: 35px;
+}
+img{
+	position: absolute;
+	top: 200px;
+	left: 500px;
+	height: 100px;
+}
+#country{
+	position: absolute;
+	top:260px;
+	left:730px;
+	font-size: 20;
+	color: gray;
+	font-family: arial;
+}
+ul{
+	position: absolute;
+	right: 20px;
+	top: 5px;
+}
+li{
+	display: inline-block;
+	color: black;
+	margin: 0px 15px 0px 0px;
+	font-size: 15px;
+}
+#boton{
+	width: 50px;
+	background-color: blue;
+	color: white;
+	padding: 7px;
+	font-family: arial;
+
+}
+a{
+	text-decoration: none;
+}
+#twoButtons{
+	position: absolute;
+	top:400px;
+	left: 500px;
+
+}
+.buttons{
+	background: #EEE;
+	width: 150px;
+	height: 30px;
+	display: inline-block;
+}
+.buttons p{
+	text-align: center;
+	margin-top: 5px;
+	color: #BBB;
+	font-weight: bold;
+	font-size: 12px;
+	
+
+}
